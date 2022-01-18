@@ -1,5 +1,9 @@
-<project></project>
-<component></component>
-<vesion></version>
-<status></status>
-<author></author>
+XML.==<?xml version="1.0" encoding="UTF-8"?>
+<report>
+<bug_ID>1023</bug_ID>
+<summary>isert</summary>
+<component>insert</component>
+<version>insert</version>
+<author>MD</author> 
+</report>
+ 
