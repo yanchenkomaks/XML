@@ -1,6 +1,10 @@
-<skills_on_the_course>
-<1>theory</1>
-<2>git<2/>
-<3>mobile_testing</3>
+<?xml version="1.0" encoding="UTF-8"?>
 
+<Skills>
+ <theory/>
+ <git/>
+ <mobile_testing/>
+ <postman/>
+          
+</Skills>
 
